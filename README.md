@@ -11,5 +11,5 @@ Advanced single guild discord js version 13 ticket bot.
 ## How to setup (Video)
 Coming soon
 ## Find me
-[Discord server](https://discord.gg/7KtdeePrHV)
-[Youtube channel](https://www.youtube.com/channel/UCwsiWQMSomXFjWWpRQbc35A)
+1. [Discord server](https://discord.gg/7KtdeePrHV)
+2. [Youtube channel](https://www.youtube.com/channel/UCwsiWQMSomXFjWWpRQbc35A)
