@@ -4,5 +4,7 @@ Advanced single guild discord js version 13 ticket bot.
 1. Download/Fork the project
 2. Make sure that your computer/server has [node.js](https://nodejs.org/en/) 16 or 16+ installed
 3. Now open the project and put all the necessary details like token, category id, role id etc.
-Note: Put the token on `token.json` and other staff on `config.json`.
-4. Save the project and run `node deploy-commands.js`.
+4. Save the project and run `npm install`.
+5. After all npm package got installed run `node deploy-commands.js` command.
+6. Now run `node index.js` command.
+`Note:` Put the token on `token.json` and other staff on `config.json`.
