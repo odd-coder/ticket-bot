@@ -1,0 +1,27 @@
+{
+    "dependencies": {
+      "@discordjs/builders": "^0.6.0",
+      "@discordjs/rest": "^0.1.0-canary.0",
+      "discord-api-types": "^0.24.0",
+      "discord.js": "^13.2.0",
+      "hastebin": "^0.2.1"
+    },
+    "name": "ticket-bot",
+    "version": "1.0.0",
+    "description": "Advanced single guild discord js version 13 ticket bot.",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/odd-coder/ticket-bot.git"
+    },
+    "author": "Odd Coder (github.com/odd-coder)",
+    "license": "Apache License 2.0",
+    "bugs": {
+      "url": "https://github.com/odd-coder/ticket-bot/issues"
+    },
+    "homepage": "https://github.com/odd-coder/ticket-bot#readme"
+  }
