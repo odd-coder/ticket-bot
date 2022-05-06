@@ -13,3 +13,5 @@ Coming soon
 ## Find me
 1. [Discord server](https://discord.gg/7KtdeePrHV)
 2. [Youtube channel](https://www.youtube.com/channel/UCwsiWQMSomXFjWWpRQbc35A)
+## Copyright
+Creative comment anyone can use but please don't remove credit (request).
